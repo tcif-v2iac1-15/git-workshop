@@ -1,0 +1,9 @@
+
+git clone https://github.com/kc/git-cheatsheet.git
+cd git-cheatsheet
+npm install -g node-static
+npm install
+npm start
+http://127.0.0.1:9090/git-cheatsheet.html
+
+http://ndpsoftware.com/git-cheatsheet.html
